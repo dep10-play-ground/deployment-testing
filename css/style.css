@@ -13,7 +13,7 @@ h1::after{
   top:0;
   width: 20px;
   height: 100%;
-  background-color: rgba(255, 255, 255, 0.34);
+  background-color: rgba(255, 255, 255, 0.62);
   transform: rotate(-20deg);
   animation-name: move;
   animation-duration: 2s;
